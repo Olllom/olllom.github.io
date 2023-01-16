@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Andreas Krämer
     - name: Date of Birth
-      value: 14th March 1879
+      value: 21th May 1988
     - name: Languages
-      value: English, German
+      value: German, English
 
 - title: Education
   type: time_table
